@@ -1,0 +1,34 @@
+﻿  AI.cpp
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(13,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(24,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(35,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(55,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(57,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(71,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(84,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(96,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(97,22): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication4.cpp
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\tictactoe.h(14,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\tictactoe.h(15,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(13,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(24,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(35,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(55,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(57,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(71,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(84,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(96,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\natha\source\repos\ConsoleApplication4\ConsoleApplication4\AI.h(97,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication4.vcxproj -> C:\Users\natha\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
